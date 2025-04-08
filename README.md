@@ -1,5 +1,4 @@
 # Eaglercraft 1.20
-NOTE: PLEASE FORK THIS PROJECT!!! 🍴
 -
 ## 😎 Let me introduce you to Eaglercraft 1.20!
 
